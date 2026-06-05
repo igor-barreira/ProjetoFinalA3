@@ -53,6 +53,6 @@ O projeto está dividido em diferentes classes para organizar as responsabilidad
 ---
 
 👥 Integrantes
-Gabriel Roecker Morais
-Igor Barreira Quialheiro Matos
-Kauan Lorenzo Lopes
+- Gabriel Roecker Morais
+- Igor Barreira Quialheiro Matos
+- Kauan Lorenzo Lopes
