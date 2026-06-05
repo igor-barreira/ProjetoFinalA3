@@ -47,8 +47,8 @@ O projeto está dividido em diferentes classes para organizar as responsabilidad
 ---
 
 ## 📋  Tecnologias Utilizadas
-Java
-Eclipse IDE
+- Java
+- Eclipse IDE
 
 ---
 
